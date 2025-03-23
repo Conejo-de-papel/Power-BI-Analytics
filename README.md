@@ -9,7 +9,7 @@ This project analyzes EPAM Systems as a potential acquisition target for Accentu
 - **Financials & Strategic Fit**: Revenue trends, profitability.
 
 ## Deliverables
-- A 3-slide deck summarizing key insights.
+A 3-slide deck summarizing key insights.
 
 ## Timeline
 - **Total duration**: 3 hours
