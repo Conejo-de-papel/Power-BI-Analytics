@@ -19,11 +19,11 @@ This project analyzes EPAM Systems as a potential acquisition target for Accentu
 ## Screenshots
 Here are  visuals from the analysis:
 
-![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 1](https://github.com/Conejo-de-papel/Power-BI-Analytics/blob/main/Снимок%20экрана%202025-03-23%20в%2002.53.34.png)
 
 
-![Screenshot 2](screenshots/screenshot2.png)  
+![Screenshot 2](https://github.com/Conejo-de-papel/Power-BI-Analytics/blob/main/Снимок%20экрана%202025-03-23%20в%2002.53.43.png)  
 
 
-![Screenshot 3](screenshots/screenshot3.png)  
+![Screenshot 3](https://github.com/Conejo-de-papel/Power-BI-Analytics/blob/main/Снимок%20экрана%202025-03-23%20в%2002.53.50.png)  
 
